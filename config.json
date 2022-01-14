@@ -1,0 +1,9 @@
+{
+	"ip":"skgamingskingdom.aternos.me",
+	"port": 46020,
+	"name": "afkbot103",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (bot1923) (bot1923)",
+	"login-cmd":"/login (bot1923)"
+}
